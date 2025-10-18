@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
+    <link>https://guillenamo.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Oct 2025 12:12:34 +0300</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guillenamo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mypage</title>
-      <link>https://example.org/posts/mypage/</link>
+      <link>https://guillenamo.github.io/posts/mypage/</link>
       <pubDate>Sat, 18 Oct 2025 12:12:34 +0300</pubDate>
-      <guid>https://example.org/posts/mypage/</guid>
+      <guid>https://guillenamo.github.io/posts/mypage/</guid>
       <description>&lt;p&gt;This is my example page for the Hugo lab&lt;/p&gt;&#xA;&lt;p&gt;![Example image](&lt;a href=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Red&#34;&gt;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Red&lt;/a&gt;_fox_-_Vulpes_vulpes.jpg/320px-Red_fox_-_Vulpes_vulpes.jpg)&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Hugo&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
