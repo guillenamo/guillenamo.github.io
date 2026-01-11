@@ -6,8 +6,15 @@
     <description>Recent content on My new Hugo Site, by Guillermo Navarro</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Oct 2025 12:12:34 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://guillenamo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My new page for task 7</title>
+      <link>https://guillenamo.github.io/posts/task7/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://guillenamo.github.io/posts/task7/</guid>
+      <description>&lt;p&gt;This is the new page created for the task 7 by Guillermo Navarro.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>mypage</title>
       <link>https://guillenamo.github.io/posts/mypage/</link>
