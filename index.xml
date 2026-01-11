@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>My new Hugo Site, by Guillermo Navarro</title>
     <link>https://guillenamo.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on My new Hugo Site, by Guillermo Navarro</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Oct 2025 12:12:34 +0300</lastBuildDate>
